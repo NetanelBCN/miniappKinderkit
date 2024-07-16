@@ -93,6 +93,13 @@ Kinderkit is a versatile child management application designed to simplify the o
 ![תמונה של WhatsApp‏ 2024-07-16 בשעה 23 45 27_1368fb51](https://github.com/user-attachments/assets/5edad9b9-2463-44e3-91e5-cf5c539095d8)
 
 
+1. Clone the repository:
+[bash
+git clone https://github.com/Roei2606/KidApp.git](https://github.com/NetanelBCN/miniappKinderkit)
+
+
+
+
 
 ## Watch Me!
 
