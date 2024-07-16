@@ -94,8 +94,9 @@ Kinderkit is a versatile child management application designed to simplify the o
 
 
 1. Clone the repository:
-[bash
+`bash
 git clone https://github.com/Roei2606/KidApp.git](https://github.com/NetanelBCN/miniappKinderkit)
+`
 
 
 
