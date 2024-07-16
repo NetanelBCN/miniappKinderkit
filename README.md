@@ -4,7 +4,24 @@
 
 # KinderKit 
 
+
+## Table of Contents
+1. [Introduction](#Introduction)
+2. [Features](#features)
+3. [Installation](#Installation)
+4. [Configuration](#Configuration)
+6. [Usage](#usage)
+7. [API Integration](#API-Integration)
+8. [Permissions](#Permissions)
+9. [Screenshots](#Screenshots)
+10. [Video Demonstration](#Video-Demonstration)
+
+
+## Introduction
+
 Kinderkit is a versatile child management application designed to simplify the organization of children's information and activities. With Kinderkit, users can create accounts using their phone numbers or Gmail accounts, allowing for convenient access to a range of features.
+
+
 
 
 ## Features
@@ -25,27 +42,40 @@ Kinderkit is a versatile child management application designed to simplify the o
   Store precious memories by adding photos to each child's profile.
 
 - #### Firebase Integration:
-  All data, including immunization records, event lists, and photos, are securely stored in Firebase Realtime Database and Firebase Storage, ensuring reliability and accessibility.
+  All pictures are stored in Firebase Storage, ensuring reliability and accessibility.
+
+- #### Send Babysitting Requests
+  Parents can send babysitting requests to registered babysitters.
+  
+- #### Sorting BabySitters and displaying Google Maps fragment (Google Maps API)
+  Parent can sort babysitters by hourly wage / experience / location.
+  Parent can see the location of the babysitter by clicking their card.
+  
 
 
 
 ## "Sign in / up" screens:
+![image](https://github.com/user-attachments/assets/5019bf8c-32b0-4d16-a7f8-ce754273b80e)
+![image](https://github.com/user-attachments/assets/4d8b07be-8ed5-4196-b26d-017f0e9c7edc)
 
-![photo_2024-04-14_22-16-13](https://github.com/NetanelBCN/KinderKit/assets/134021385/7be54042-03d7-472a-9dd0-ac0fcc417c5d)
-![photo_2024-04-14_22-16-18](https://github.com/NetanelBCN/KinderKit/assets/134021385/562b5d2b-6c2e-4b7c-a871-c4c308008676)
+
+
 
 ## User details bar:
 
-![image](https://github.com/NetanelBCN/KinderKit/assets/134021385/e30e8d7e-bef2-4c47-8cd0-346a0a9ca53e)
+![תמונה של WhatsApp‏ 2024-07-16 בשעה 23 42 03_5c4c58fc](https://github.com/user-attachments/assets/6a3bbf9d-8d67-4fd2-9cf6-7117e6ad6b4a)
+
 
 ## User "Kids Menu" screen & "Add New Kid" screen:
+![תמונה של WhatsApp‏ 2024-07-16 בשעה 22 23 56_025286c1](https://github.com/user-attachments/assets/0e8c507b-40ae-4fb1-bc3a-ea980c7d9790)
 
-![image](https://github.com/NetanelBCN/KinderKit/assets/134021385/90f22f29-d074-46db-a726-d8de6cc378d6)
-![image](https://github.com/NetanelBCN/KinderKit/assets/134021385/b61d3552-036e-4c41-b181-ec792e40043c)
+![תמונה של WhatsApp‏ 2024-07-16 בשעה 22 26 38_f7dd30c9](https://github.com/user-attachments/assets/2e9c36aa-efe1-41a7-8334-092025f504b8)
+
 
 ## "Kid's Card" screen:
 
-![image](https://github.com/NetanelBCN/KinderKit/assets/134021385/b0b59fc8-d058-4c41-af52-03c3ea60efc8)
+![תמונה של WhatsApp‏ 2024-07-16 בשעה 22 26 57_71ab5103](https://github.com/user-attachments/assets/83bc7f8a-5455-4fa1-b7ee-616942424ea7)
+
 
 ## "Kid's Gallery" screen:
 
@@ -58,18 +88,19 @@ Kinderkit is a versatile child management application designed to simplify the o
 
 ## "Kid's Events" screen & "Add New Event" screen:
 
-![image](https://github.com/NetanelBCN/KinderKit/assets/134021385/27f685d8-74e2-4b9a-8233-5014e6651acc)
-![image](https://github.com/NetanelBCN/KinderKit/assets/134021385/9b1100e8-3272-45bf-8807-68b166d4b7a6)
+![תמונה של WhatsApp‏ 2024-07-16 בשעה 22 30 17_90567351](https://github.com/user-attachments/assets/2d13d85d-af9c-4661-991d-edb7e35ae804)
+
+![תמונה של WhatsApp‏ 2024-07-16 בשעה 23 45 27_1368fb51](https://github.com/user-attachments/assets/5edad9b9-2463-44e3-91e5-cf5c539095d8)
 
 
 
 ## Watch Me!
 
 
-https://github.com/NetanelBCN/KinderKit/assets/134021385/4caf87a3-ccb4-45fd-b344-7bca5fd7609f
+
+https://github.com/user-attachments/assets/9a4af61b-94e9-458c-9977-6b06791dc7e3
 
 
-[KinderKit.pptx](https://github.com/NetanelBCN/KinderKit/files/14986233/KinderKit.pptx)
 
 
 
